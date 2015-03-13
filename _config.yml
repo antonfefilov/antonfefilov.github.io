@@ -1,12 +1,13 @@
 # Site settings
 title: Atomized developer
-email: anton.fefilov@flatstack.com
+email: atomdev@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   Memento mori ... never breaks the chain and don't worry, be happy!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: antonfefilov
 github_username: antonfefilov
+stackoverflow_cv_username: atomdev
 
 # Build settings
 markdown: kramdown
