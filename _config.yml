@@ -1,6 +1,6 @@
 # Site settings
 title: Atomized developer
-email: atomdev@icloud.com
+email: anton.fefilov@macrocoders.com
 description: > # this means to ignore newlines until "baseurl:"
   Memento mori ... never breaks the chain and don't worry, be happy!
 baseurl: "" # the subpath of your site, e.g. /blog/
