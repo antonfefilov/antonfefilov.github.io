@@ -14,15 +14,13 @@ permalink: /about/
   </li>
   {% endif %}
 
-  {% if site.twitter_username %}
   <li>
-    Twitter:
-    <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
-      <span class="username">@{{ site.twitter_username }}</span>
+    LinkedIn:
+    <a href="https://www.linkedin.com/in/anton-fefilov-168807b4/" target="_blank">
+      <span class="username">Anton Fefilov</span>
     </a>
   </li>
-  {% endif %}
-
+ 
   {% if site.stackoverflow_cv_username %}
   <li>
     StackOverflow:
