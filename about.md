@@ -24,7 +24,7 @@ permalink: /about/
   {% if site.stackoverflow_cv_username %}
   <li>
     StackOverflow:
-    <a href="https://careers.stackoverflow.com/{{ site.stackoverflow_cv_username }}" target="_blank">
+    <a href="http://stackoverflow.com/story/{{ site.stackoverflow_cv_username }}" target="_blank">
       <span class="username">{{ site.stackoverflow_cv_username }}</span>
     </a>
   </li>
